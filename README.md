@@ -15,3 +15,12 @@ make package
 - Copy layout/usr/local/lib/Authenticate.dylib to $THEOS/lib
 - Copy Authenticate.h in $THEOS/Authenticate/Authenticate.h
 
+## How use it 
+```objective-c
+#import <Authenticate/Authenticate.h>
+[Authenticate alloc] authenticate:@"reason" completed:^(BOOL success) {
+    if (success) {
+        //Authentification success
+    }
+  }];
+```
