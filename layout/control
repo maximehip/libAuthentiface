@@ -1,0 +1,9 @@
+Package: com.maximehip.dontoff
+Name: libAuthentication
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Easy way to user FaceID/TouchID
+Maintainer: maximehip
+Author: maximehip
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
