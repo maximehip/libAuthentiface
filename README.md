@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-LibAuthentication will simplify your code when if you want to use FaceID/TouchID in your tweaks.
+LibAuthentiface will simplify your code when if you want to use FaceID/TouchID in your tweaks.
 
 ## How to compile
 ```sh
